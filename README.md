@@ -21,7 +21,7 @@
 
 ## Hacking HYF
 
-* [Suggest an Improvement](https://github.com/hackyourfuturebelgium/improvments)
+* [Suggest an Improvement](https://github.com/hackyourfuturebelgium/improvements)
 * [Become a Contributor](https://github.com/hackyourfuturebelgium/contributors)
 
 ## DIY Education
